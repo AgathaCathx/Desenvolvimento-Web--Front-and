@@ -1,0 +1,39 @@
+body {
+    margin: 0; /*fora*/
+    padding: 0; /*Dentro*/
+    background: #ccee66; /*cor de fundo*/
+    color:#ffffff; /*cor do texto*/
+    padding: 20px 160px;
+    height: 100vh; /*altura*/
+}
+
+.logo{
+    width: 80px; /*largura*/
+}
+
+h4{
+    font-size: 30px /*tamanho do texto*/
+}
+
+h1 {
+    font-size: 80px /*tamanho do título principal*/
+}
+
+p{
+    font-size: 16px;
+    margin-bottom: 40px;
+}
+
+.link-carrinho {
+    background: #a3be52;
+    padding: 10px 20px;
+    border-radius: 20px;
+    cursor: pointer;
+    text-decoration: none;
+    color: #000000;
+    transition: 0.5s;
+}
+
+.link-carrinho:hover {
+    opacity: 0.7;
+}
