@@ -21,7 +21,7 @@ h1 {
 
 p{
     font-size: 16px;
-    margin-bottom: 40px;
+    margin-bottom: 40px; /*margem inferioe*/
 }
 
 .link-carrinho {
@@ -37,3 +37,52 @@ p{
 .link-carrinho:hover {
     opacity: 0.7;
 }
+
+.imagem-tenis {
+    width: 800px;
+    transform: rotate(-25deg); /*deg= define angulos ascendentes*/
+}
+
+.caixa-principal {
+    display: flex; /*habilita alguns super poderes*/
+    justify-content: space-between; /*alinha na horizontal*/
+    align-items: center; /*alinha na vertical*/
+    height: 90%;
+
+}
+
+.caixa-textos {
+    max-width: 500px;
+
+}
+
+.caixa-botoes {
+    display: flex;
+    gap: 15px;
+}
+
+.botoes {
+   height: 80px;
+   width: 80px;
+   border-radius: 60px;
+   cursor: pointer;
+}
+
+.botoes:active {
+    opacity: 0.8;
+}
+
+.verde {
+    background: #ccee66;
+}
+
+.azul {
+    background: #58cced;
+
+}
+
+.rosa {
+    background: #ff9eb5;
+
+}
+/*altura,largura e borda dos botoes*/
