@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: yellow;
+    color: black;
+    background-image: url(imagem/Foto-amarela.png);
+    overflow: hidden;
+
+}
+
+p{
+    max-width: 400px;
+}
+
+h1 {
+    font-size: 100px;
+}
+
+div {
+    font-size: 45px;
+}
+
+ul {
+    font-size: 30px;
+}

@@ -6,7 +6,7 @@ body {
     padding: 20px 160px;
     height: 100vh; /*altura*/
 
-    overflow: hidden;
+    overflow: hidden; /*evitar ter a barrinha de subir e descer da página*/
 }
 
 body::before{

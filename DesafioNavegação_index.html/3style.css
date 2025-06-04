@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: green;
+    color: white;
+    background-image: url(imagem/Foto-verde.png);
+    overflow: hidden;
+
+}
+
+p{
+    max-width: 400px;
+}
+
+h1 {
+    font-size: 100px;
+}
+
+div {
+    font-size: 45px;
+}
+
+ul {
+    font-size: 30px;
+}

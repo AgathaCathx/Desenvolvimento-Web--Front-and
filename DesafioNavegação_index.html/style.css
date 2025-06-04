@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: grey;
+    color: black;
+    overflow: hidden;
+    background-image: url(imagem/Imagem-cinza.png);
+}
+
+p{
+    max-width: 400px;
+}
+ h1 {
+    font-size: 100px;
+ }
+
+ div {
+    font-size: 40px;
+ }
+
+ ul{
+    font-size: 30px;
+ }
