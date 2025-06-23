@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+iframe {
+    height: 377px;
+    width: 478px;
+
+}
+div {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 10px 0;
+}
+
+header {
+    background: gray;
+    height: 90px;
+}
+
+a {
+    color:red;
+    text-decoration: none;
+    margin-top: 30px;
+}
+
+li{
+    display: flex;
+    align-items: center;
+    gap: 100px;
+    justify-content: center;
+    font-size: 30px;
+}
+
+footer{
+    background: #780000;
+    height: 90px;
+}
