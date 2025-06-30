@@ -1,0 +1,33 @@
+body {
+    background-image: url("1°imagens/aurora-boreal-e-sensacional.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p {
+    color: #aeb2df;
+    font-weight: 900;
+    font-size: 24px;
+}
+h1 {
+    color: #ffffff;
+    font-weight: 900;
+    font-size: 24px;
+}
+h3 {
+    color: #ffffff;
+    font-weight: 900;
+    font-size: 24px;
+}
+h2 {
+    color: #ffffff;
+    font-weight: 900;
+    font-size: 24px;
+}
+a {
+    padding: 10px;
+    background-color: #ff00d4;
+    border-radius: 8px;
+    color: #0ba770;
+    font-size: 24px;
+    font-weight: 900px;
+}
