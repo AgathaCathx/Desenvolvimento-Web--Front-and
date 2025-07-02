@@ -1,33 +1,35 @@
 body {
-    background-image: url("1°imagens/aurora-boreal-e-sensacional.png");
+    background-image: url("1°imagens/imagem\ preta.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
 p {
-    color: #aeb2df;
+    color: #ffffff;
     font-weight: 900;
     font-size: 24px;
 }
 h1 {
-    color: #ffffff;
+    color: #b23535;
     font-weight: 900;
     font-size: 24px;
 }
 h3 {
-    color: #ffffff;
+    color: #b23535;
     font-weight: 900;
     font-size: 24px;
 }
 h2 {
-    color: #ffffff;
+    color: #b23535;
     font-weight: 900;
     font-size: 24px;
 }
 a {
     padding: 10px;
-    background-color: #ff00d4;
+    background-color: #b23535;
     border-radius: 8px;
-    color: #0ba770;
+    color: #00fe77;
     font-size: 24px;
-    font-weight: 900px;
+}
+li {
+    opacity: 50%;
 }

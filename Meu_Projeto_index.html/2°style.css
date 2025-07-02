@@ -1,0 +1,9 @@
+.imagem-texto {
+    display: flex;
+    gap: 20px;
+}
+
+
+.textos-posicoes{
+    width: 50%;
+}
